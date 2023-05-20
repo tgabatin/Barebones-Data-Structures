@@ -9,6 +9,8 @@ class LinkedList {
             int data;
             Node* next;
         };
+
+        Node* head;
     
     public:
         LinkedList();
